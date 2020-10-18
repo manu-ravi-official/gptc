@@ -87,7 +87,7 @@ margin-left: 50px;
     
     margin:10px;
     float: right;
-   padding-margin: 100px;
+
     background-color: #ffb85f;
     border-color:aliceblue;
     border-style: hidden;
@@ -111,7 +111,7 @@ margin-left: 50px;
   @media only screen and (max-width: 600px) {
     .addressGptc{
         padding-top: 40px;
-    }
+    }}
     @media only screen and (max-width: 600px) {
         .heading_gptc{
             padding-top: 50px;
@@ -124,4 +124,4 @@ margin-left: 50px;
         @media only screen and (max-width: 600px) {
             .right{
                 padding-left: 20px;
-            }
+            }}
